@@ -4,8 +4,8 @@
 
 
 ## Education							       		
-- M.S.E., Scientific Computing	| University of Pennsylvania (_May 2024_)	 			        		
-- B.S., Chemistry & Computer Science | Emory University (_May 2021_)
+M.S.E., Scientific Computing	| University of Pennsylvania (_May 2024_)	 			        		
+B.S., Chemistry & Computer Science | Emory University (_May 2021_)
 
 ## Experience
 **Data Science Intern @ Federal Reserve Bank of Atlanta (_May 2023 - August 2023_)**
