@@ -4,18 +4,33 @@
 
 
 ## Education							       		
-- M.S.E., Scientific Computing	| Emory University (_May 2024)	 			        		
-- B.S., Chemistry & Computer Science | Emory University (_May 2021)
+- M.S.E., Scientific Computing	| University of Pennsylvania (_May 2024_)	 			        		
+- B.S., Chemistry & Computer Science | Emory University (_May 2021_)
 
 ## Experience
-**Data Science Intern @ Federal Reserve Bank of Atlanta (May 2023 - August 2023_)**
-- Developed Selenium and LXML-based web-scraping tool to automate pulling data from public employee reviews sites.
-- Extracted themes in employee reviews using NLTK and TF-IDF and created supplementary tables and visuals using Pandas and Seaborn to highlight yearly fluctuations.
+**Data Science Intern @ Federal Reserve Bank of Atlanta (_May 2023 - August 2023_)**
+- Developed Selenium and LXML-based web-scraping tool to automate pulling data from public employee reviews sites. 
+- Extracted trending themes in employee reviews data using NLTK and TF-IDF and created supplementary tables and visuals using Pandas and Seaborn to highlight yearly fluctuations.
+- Converted and refined existing source code (SAS) using Python and SQL, generating viable datasets to train risk assessment models.
 - Prepared, cleaned, and transformed data from financial institutions using Pandas and subsequently produced Tableau dashboards to showcase findings to examiners.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Head Graduate Teaching Assistant for CIS 5450 (Big Data Analytics) @ University of Pennsylvania (_January 2023 - Present_)**
+- Oversee a team of TAs in the ongoing, collaborative development of course material, planning, and structure. 
+- Host recitations, review sessions, and weekly office hours to aid students with assignments and lecture concepts.
+- Curate and grade course material, including exams and homework assignments. 
+- Mentored six groups of three students on end-of-term projects through providing guidance and constructive feedback.
+
+**Machine Learning Research Intern @ Argonne National Laboratory (_June 2021 - August 2021_)**
+- Familiarized myself with computer vision techniques and convolutional neural network (CNN) architecture through reading documents, literature, and online resources and through asking questions. 
+- Developed labeling algorithm using Numpy and OpenCV for processing time-lapsed images of snow rods to improve efficiency of image annotation tasks.
+- Trained and assessed U-Net convolutional neural network (CNN) on snow rod segmentation tasks using algorithm-labeled image data.
+
+**Computational Chemistry Research Assistant @ Joel Bowman Research Group, Emory University (_August 2020 - August 2022_)**
+- Designed, implemented, and tested Python graphical user interface (GUI) for running monomial symmetrization fitting software to enhance user experience.
+- Explored alternate methods for identifying negative potentials in potential energy surface fits through assessing diffusion Monte Carlo calculations and artificially reduced masses.
+- Cleaned and processed data using Scikit-learn and Pandas to assess coverage and identify patterns.
+- Assisted Dr. Bowman in his Machine Learning in Chemistry capstone course. Introduced students to a relatively new topic through teaching the first lecture.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
