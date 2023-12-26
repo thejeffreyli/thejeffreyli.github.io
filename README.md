@@ -1,12 +1,10 @@
 # Welcome to my Website!
 
 ## Biography	
-I am a second year graduate student in the [Scientific Computing Master's Program (SCMP)](https://pics.upenn.edu/masters-science-engineering-scientific-computing/) at the University of Pennsylvania. My previous work and research experiences range from studying molecular dynamics to developing analytics tools. My current interests are in applied machine learning, computer vision, and deep learning. Outside of work, I enjoy going to the gym, playing basketball, and running. 
+I am a second year graduate student in the [Scientific Computing Master's Program (SCMP)](https://pics.upenn.edu/masters-science-engineering-scientific-computing/) at the University of Pennsylvania. I obtained my Bachelor's at Emory University, where I studied Chemistry and Computer Science. My work and research experiences range from studying potential energy surfaces to developing analytics tools. My current interests are in applied machine learning, computer vision, and deep learning. Outside of work, I enjoy running and watching soccer and basketball.
 
 
 ## Education							       		
-<!-- - M.S.E., Scientific Computing | University of Pennsylvania (_May 2024_)	 			        		
-- B.S., Chemistry & Computer Science | Emory University (_May 2021_) -->
 
 - **University of Pennsylvania**, Master of Science in Engineering, Scientific Computing (_May 2024_)	
 - **Emory University**, Bachelor of Science in Chemistry, Bachelor of Arts in Computer Science (_May 2021_)
