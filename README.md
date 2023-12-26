@@ -7,8 +7,10 @@
 <!-- - M.S.E., Scientific Computing | University of Pennsylvania (_May 2024_)	 			        		
 - B.S., Chemistry & Computer Science | Emory University (_May 2021_) -->
 
-- University of Pennsylvania, Master of Science in Engineering, Scientific Computing (_May 2024_)	
-- University of Pennsylvania, Master of Science in Engineering, Scientific Computing (_May 2024_)	
+- **University of Pennsylvania**, Master of Science in Engineering, Scientific Computing (_May 2024_)	
+- **Emory University**, Bachelor of Science in Chemistry, Bachelor of Arts in Computer Science (_May 2021_)
+
+
 ## Experience
 **Data Science Intern @ Federal Reserve Bank of Atlanta (_May 2023 - August 2023_)**
 - Developed Selenium and LXML-based web-scraping tool to automate pulling data from public employee reviews sites. 
