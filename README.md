@@ -53,8 +53,11 @@ xxx
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
 
+*[Check out more projects here!](https://www.mdpi.com/1424-8220/22/11/4240)*
+
+
 ## Publications
-1. Houston, P. L., Qu, C., Yu, Q., Conte, R., Nandi, A., Li, J., Bowman, J. M. (2023). PESPIP: A Software to Fit Complex Molecular and Many-body Potential Energy Surfaces with Permutationally Invariant Polynomials. 158 (4). Journal of Chemical Physics. [Read Here](https://doi.org/10.1021/acs.jctc.0c00001). 
-2. Chu, M., Li, J., Zhang, Q., Jiang, Z., Dufresne, E. M., Sandy, A., Narayanan, S., Schwarz, N. (2022). pyXPCSviewer: an open-source interactive tool for X-ray photon correlation spectroscopy visualization and analysis. Journal of Synchrotron Radiation. 29, 1122-1129. [Read Here](https://doi.org/10.1107/S1600577522004830). 
-3. Li, J., Qu, C., Bowman, J. M. (2021). Diffusion Monte Carlo with Fictitious Masses Finds Holes in Potential Energy Surfaces. Molecular Physics. 119(17-18). [Read Here](https://doi.org/10.1080/00268976.2021.1976426). 
-4. Conte, R., Houston, P. L., Qu, C., Li, J., Bowman, J. M. (2020). Full-dimensional, ab initio potential energy surface for glycine with characterization of stationary points and zero-point energy calculations by means of diffusion Monte Carlo and semiclassical dynamics. The Journal of Chemical Physics. 153(244301). [Read Here](https://doi.org/10.1063/5.0037175). 
+1. Houston, P. L., Qu, C., Yu, Q., Conte, R., Nandi, A., Li, J., Bowman, J. M. (2023). PESPIP: A Software to Fit Complex Molecular and Many-body Potential Energy Surfaces with Permutationally Invariant Polynomials. 158 (4). Journal of Chemical Physics. [Read](https://doi.org/10.1021/acs.jctc.0c00001). 
+2. Chu, M., Li, J., Zhang, Q., Jiang, Z., Dufresne, E. M., Sandy, A., Narayanan, S., Schwarz, N. (2022). pyXPCSviewer: an open-source interactive tool for X-ray photon correlation spectroscopy visualization and analysis. Journal of Synchrotron Radiation. 29, 1122-1129. [Read](https://doi.org/10.1107/S1600577522004830). 
+3. Li, J., Qu, C., Bowman, J. M. (2021). Diffusion Monte Carlo with Fictitious Masses Finds Holes in Potential Energy Surfaces. Molecular Physics. 119(17-18). [Read](https://doi.org/10.1080/00268976.2021.1976426). 
+4. Conte, R., Houston, P. L., Qu, C., Li, J., Bowman, J. M. (2020). Full-dimensional, ab initio potential energy surface for glycine with characterization of stationary points and zero-point energy calculations by means of diffusion Monte Carlo and semiclassical dynamics. The Journal of Chemical Physics. 153(244301). [Read](https://doi.org/10.1063/5.0037175). 
