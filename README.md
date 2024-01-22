@@ -36,7 +36,7 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 - Cleaned and processed data using Scikit-learn and Pandas to assess coverage and identify patterns.
 - Assisted Dr. Bowman in his Machine Learning in Chemistry capstone course. Introduced students to a relatively new topic through teaching the first lecture.
 
-
+<!-- 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [GitHub](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -54,7 +54,7 @@ xxx
 
 
 *[Check out more projects here!](https://www.mdpi.com/1424-8220/22/11/4240)*
-
+ -->
 
 ## Publications
 1. Houston, P. L., Qu, C., Yu, Q., Conte, R., Nandi, A., Li, J., Bowman, J. M. (2023). PESPIP: A Software to Fit Complex Molecular and Many-body Potential Energy Surfaces with Permutationally Invariant Polynomials. 158 (4). Journal of Chemical Physics. [Read](https://doi.org/10.1021/acs.jctc.0c00001). 
