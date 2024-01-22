@@ -13,24 +13,25 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 
 ## Experience
 **Data Science Intern @ Federal Reserve Bank of Atlanta (_May 2023 - August 2023_)**
-- Developed Selenium and LXML-based web-scraping tool to automate pulling data from public employee reviews sites. 
-- Extracted trending themes in employee reviews data using NLTK and TF-IDF and created supplementary tables and visuals using Pandas and Seaborn to highlight yearly fluctuations.
-- Converted and refined existing source code (SAS) using Python and SQL, generating viable datasets to train risk assessment models.
-- Prepared, cleaned, and transformed data from financial institutions using Pandas and subsequently produced Tableau dashboards to showcase findings to examiners.
+- Developed robust and efficient web scraping solution using Python, LXML, and Selenium that automated data retrieval tasks on public websites, improved data accuracy, and reduced manual efforts.
+- Employed NLP techniques, specifically TF-IDF, to analyze large sets of employee reviews and identify insights and trends, providing stakeholders with valuable information on employee sentiments, concerns, and areas of improvement. 
+- Performed comprehensive data preprocessing using Pandas to clean and prepare raw data from financial institutions, and subsequently produced interactive dashboards and visualizations in Tableau to showcase findings to examiners. 
+- Converted and refined existing SAS source code to Python and SQL for generating viable datasets to train risk assessment models.
+
 
 **Head Graduate Teaching Assistant for CIS 5450 (Big Data Analytics) @ University of Pennsylvania (_January 2023 - Present_)**
 - Oversee a team of TAs in the ongoing, collaborative development of course material, planning, and structure. 
 - Host recitations, review sessions, and weekly office hours to aid students with assignments and lecture concepts.
+- Mentor six groups of three students on end-of-term projects by providing guidance and constructive feedback.
 - Curate and grade course material, including exams and homework assignments. 
-- Mentored six groups of three students on end-of-term projects through providing guidance and constructive feedback.
 
 **Machine Learning Research Intern @ Argonne National Laboratory (_June 2021 - August 2021_)**
-- Familiarized myself with computer vision techniques and convolutional neural network (CNN) architecture through reading documents, literature, and online resources and through asking questions. 
-- Developed labeling algorithm using Numpy and OpenCV for processing time-lapsed images of snow rods to improve efficiency of image annotation tasks.
-- Trained and assessed U-Net convolutional neural network (CNN) on snow rod segmentation tasks using algorithm-labeled image data.
+- Familiarized myself with computer vision techniques and convolutional neural network (CNN) architecture through reading documents, literature, and online resources and through asking questions.
+- Produced a comprehensive pipeline using NumPy and OpenCV for time-lapsed image labeling and preprocessing that prepared input data for downstream segmentation tasks and significantly reduced manual efforts. 
+- Actively collaborated in the training process of U-Net model in PyTorch for image segmentation of snow rods.
 
 **Computational Chemistry Research Assistant @ Joel Bowman Research Group, Emory University (_August 2020 - August 2022_)**
-- Designed, implemented, and tested Python graphical user interface (GUI) for running monomial symmetrization fitting software to enhance user experience.
+- Designed, implemented, and tested a desktop GUI using Python and PyQt for running monomial symmetrization fitting software, ensuring a seamless user experience. 
 - Explored alternate methods for identifying negative potentials in potential energy surface fits through assessing diffusion Monte Carlo calculations and artificially reduced masses.
 - Cleaned and processed data using Scikit-learn and Pandas to assess coverage and identify patterns.
 - Assisted Dr. Bowman in his Machine Learning in Chemistry capstone course. Introduced students to a relatively new topic through teaching the first lecture.
