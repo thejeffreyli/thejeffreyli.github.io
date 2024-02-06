@@ -43,7 +43,7 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 
 In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Through our exploration, we study internal and external factors that impact bike share trip durations and uncover trends across both location, time, and weather-related factors. To understand relationships between stations and key trip factors, we first use k-means clustering as an unsupervised learning method. We consider both regression and classification-based models given we have real inputs and want to predict trip durations as a continuous variable or as a categorical binary variable (i.e., short and long trips). We employ grid search cross-validation for hyperparameter tuning in order to improve our classification model and also present our final models.
 
-<img src="/Notebook/Results/solid.jpg" width="200">
+<img src="/assets/img/sf_map.png" width="200">
 
 <!-- ![EEG Band Discovery](/assets/img/sf_map.png)
  -->
