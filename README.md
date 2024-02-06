@@ -41,11 +41,12 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 ### San Francisco Bay Area Bike Share EDA/ML Analysis
 [GitHub](https://github.com/thejeffreyli/kaggle-sf-bay-area-bike-share)
 
-In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Since its launch in 2013, the Bay Wheels Bike Share Program has provided affordable and accessible transportation across the San Francisco Bay Area. The regional bicycle sharing system partners with local government agencies and corporations like Lyft and currently has over 7000 traditional and electric bicycles at 550 stations.
+In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Through our exploration, we study internal and external factors that impact bike share trip durations and uncover trends across both location, time, and weather-related factors. To understand relationships between stations and key trip factors, we first use k-means clustering as an unsupervised learning method. We consider both regression and classification-based models given we have real inputs and want to predict trip durations as a continuous variable or as a categorical binary variable (i.e., short and long trips). We employ grid search cross-validation for hyperparameter tuning in order to improve our classification model and also present our final models.
 
-Through our exploration, we study internal and external factors that impact bike share trip durations and uncover trends across both location, time, and weather-related factors. To understand relationships between stations and key trip factors, we first use k-means clustering as an unsupervised learning method. We consider both regression and classification-based models given we have real inputs and want to predict trip durations as a continuous variable or as a categorical binary variable (i.e., short and long trips). We employ grid search cross-validation for hyperparameter tuning in order to improve our classification model and also present our final models.
+<img src="/Notebook/Results/solid.jpg" width="200">
 
-![EEG Band Discovery](/assets/img/sf_map.png)
+<!-- ![EEG Band Discovery](/assets/img/sf_map.png)
+ -->
 <!-- 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [GitHub](https://www.mdpi.com/1424-8220/22/11/4240)
