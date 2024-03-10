@@ -5,9 +5,8 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 
 <!-- ![Bike Study](/assets/img/peachtree2023.JPG) -->
 
-[Link to another page](./another-page.MD).
+[Link to another page](./another-page.html).
 
-[Link to another page](./index.MD).
 
 ## Education							       		
 
