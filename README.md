@@ -5,23 +5,52 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 
 <!-- ![Bike Study](/assets/img/peachtree2023.JPG) -->
 
-
 ## Education							       		
 
 - **University of Pennsylvania**, Master of Science in Engineering, Scientific Computing (_May 2024_)	
 - **Emory University**, Bachelor of Science in Chemistry, Bachelor of Arts in Computer Science (_May 2021_)
 
 
+## Highlighted Projects
+
+[Check out more projects here!](./projects.html)
+
+
+### San Francisco Bay Area Bike Share EDA/ML Analysis (2022)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/kaggle-sf-bay-area-bike-share)
+
+In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Through our exploration, we study internal and external factors that impact bike share trip durations and uncover trends across both location, time, and weather-related factors. To understand relationships between stations and key trip factors, we first use k-means clustering as an unsupervised learning method. We consider both regression and classification-based models given we have real inputs and want to predict trip durations as a continuous variable or as a categorical binary variable (i.e., short and long trips). We employ grid search cross-validation for hyperparameter tuning in order to improve our classification model and also present our final models.
+
+<img src="/assets/img/sf_map.png" width="400">
+
+
+### No Cameraman Left Behind DL/CV-based Image-Editing Software (2022)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/no-cameraman-left-behind)
+
+In this project, we address a universal issue in taking group pictures: leaving out the photographer. Having access to a source image of only the photographer and a target image of the rest of the group, we propose a program that can incorporate both parties into one realistic final output using open-source software, namely NumPy, OpenCV, and PyTorch. The image processing pipeline involves three major steps: (1) image segmentation of person(s), (2) information extraction from the source image, and (3) gradient domain blending. 
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/assets/img/source.jpg" width="125" style="margin-right: 10px;">
+    <img src="/assets/img/target.jpg" width="125" style="margin-right: 10px;">
+    <img src="/assets/img/solid.jpg" width="125">
+</div>
+
+
+[Check out more projects here!](./projects.html)
+
+
 ## Experience
 **Data Science Intern @ Federal Reserve Bank of Atlanta (_May 2023 - August 2023_)**
-- Developed robust and efficient web scraping solution using Python, LXML, and Selenium that automated data retrieval tasks on public websites, improved data accuracy, and reduced manual efforts.
-- Employed NLP techniques, specifically TF-IDF, to analyze large sets of employee reviews and identify insights and trends, providing stakeholders with valuable information on employee sentiments, concerns, and areas of improvement. 
+- •	Developed robust and efficient web scraping solutions using Python, LXML, and Selenium that automated data retrieval tasks on public domains, reduced manual efforts, and achieved up to an 88% improvement in speed.
+- •	Employed NLP techniques, specifically TF-IDF, to analyze over 3,000 employee reviews and identify insights and trends, providing stakeholders with valuable information on employee sentiments. 
 - Performed comprehensive data preprocessing using Pandas to clean and prepare raw data from financial institutions, and subsequently produced interactive dashboards and visualizations in Tableau to showcase findings to examiners. 
 - Converted and refined existing SAS source code to Python and SQL for generating viable datasets to train risk assessment models.
 
 
-**Head Graduate Teaching Assistant for CIS 5450 (Big Data Analytics) @ University of Pennsylvania (_January 2023 - Present_)**
-- Oversee a team of TAs in the ongoing, collaborative development of course material, planning, and structure. 
+**Head Graduate Teaching Assistant for CIS 5450 ([Big Data Analytics](https://sites.google.com/seas.upenn.edu/cis545/home?authuser=1)) @ University of Pennsylvania (_January 2023 - Present_)**
+- Oversee a team of TAs in the ongoing, collaborative development of course content and structure for 400 students.
 - Host recitations, review sessions, and weekly office hours to aid students with assignments and lecture concepts.
 - Mentor six groups of three students on end-of-term projects by providing guidance and constructive feedback.
 - Curate and grade course material, including exams and homework assignments. 
@@ -37,28 +66,6 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 - Cleaned and processed data using Scikit-learn and Pandas to assess coverage and identify patterns.
 - Assisted Dr. Bowman in his Machine Learning in Chemistry capstone course. Introduced students to a relatively new topic through teaching the first lecture.
 
-
-## Projects
-### San Francisco Bay Area Bike Share EDA/ML Analysis (2022)
-[GitHub](https://github.com/thejeffreyli/kaggle-sf-bay-area-bike-share)
-
-In this project, we leverage data analytics tools and machine learning algorithms to understand the San Francisco Bay Area Bike Share data provided by Kaggle. Through our exploration, we study internal and external factors that impact bike share trip durations and uncover trends across both location, time, and weather-related factors. To understand relationships between stations and key trip factors, we first use k-means clustering as an unsupervised learning method. We consider both regression and classification-based models given we have real inputs and want to predict trip durations as a continuous variable or as a categorical binary variable (i.e., short and long trips). We employ grid search cross-validation for hyperparameter tuning in order to improve our classification model and also present our final models.
-
-<img src="/assets/img/sf_map.png" width="400">
-
-
-### No Cameraman Left Behind DL/CV-based Image-Editing Software (2022)
-[GitHub](https://github.com/thejeffreyli/no-cameraman-left-behind)
-
-In this project, we address a universal issue in taking group pictures: leaving out the photographer. Having access to a source image of only the photographer and a target image of the rest of the group, we propose a program that can incorporate both parties into one realistic final output using open-source software, namely NumPy, OpenCV, and PyTorch. The image processing pipeline involves three major steps: (1) image segmentation of person(s), (2) information extraction from the source image, and (3) gradient domain blending. From qualitative tests, our program works well on images with people standing in front of a solid background and with people standing next to each other on the horizontal axis. The final product rivals the results manually produced using Adobe Photoshop software. The program performs suboptimally on images with complex backgrounds, with people standing at different locations in the foreground, and images taken at different angles. Future work can be done to improve the robustness of our program and to combat more edge cases. 
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="/assets/img/source.jpg" width="125" style="margin-right: 10px;">
-    <img src="/assets/img/target.jpg" width="125" style="margin-right: 10px;">
-    <img src="/assets/img/solid.jpg" width="125">
-</div>
-
-[Check out more projects here!](./projects.html).
 
 ## Publications
 1. Houston, P. L., Qu, C., Yu, Q., Conte, R., Nandi, A., Li, J., Bowman, J. M. (2023). PESPIP: A Software to Fit Complex Molecular and Many-body Potential Energy Surfaces with Permutationally Invariant Polynomials. 158 (4). Journal of Chemical Physics. [Read](https://doi.org/10.1021/acs.jctc.0c00001). 
