@@ -5,8 +5,6 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 
 <!-- ![Bike Study](/assets/img/peachtree2023.JPG) -->
 
-[Link to another page](./another-page.html).
-
 
 ## Education							       		
 
@@ -60,9 +58,7 @@ In this project, we address a universal issue in taking group pictures: leaving 
     <img src="/assets/img/solid.jpg" width="125">
 </div>
 
-
-*[Check out more projects here!](https://github.com/thejeffreyli)*
-
+[Check out more projects here!](./projects.html).
 
 ## Publications
 1. Houston, P. L., Qu, C., Yu, Q., Conte, R., Nandi, A., Li, J., Bowman, J. M. (2023). PESPIP: A Software to Fit Complex Molecular and Many-body Potential Energy Surfaces with Permutationally Invariant Polynomials. 158 (4). Journal of Chemical Physics. [Read](https://doi.org/10.1021/acs.jctc.0c00001). 
