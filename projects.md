@@ -20,6 +20,9 @@ Processing 3D point cloud data is important for applications in self-driving car
 
 <img src="/assets/img/chairs.png">
 
+<img src="/assets/img/lamps.png">
+
+<img src="/assets/img/vases.png">
 
 ### What are Those?! Sneaker Classifier (2023)
 
