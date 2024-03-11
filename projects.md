@@ -54,3 +54,33 @@ In this project, we address a universal issue in taking group pictures: leaving 
     <img src="/assets/img/target.jpg" width="125" style="margin-right: 10px;">
     <img src="/assets/img/solid.jpg" width="125">
 </div>
+
+
+### PyMSA (2022)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/pyMSA)
+
+This program provides an easy-to-use, Python-based graphical user interface (GUI) for running MSA software. MSA is a software that does a fit of electronic energies using fitting bases that are invariant with respect to permutations of like atoms.
+
+<img src="/assets/img/msa_0411.png" width="400">
+
+### Estimating Snow Coverage Using Computer Vision and Deep Learning (2021)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/summer2021/tree/main/Li)
+
+In this project, we propose an algorithm for expediting image labeling tasks through the automatic detection and labeling of snow rods. Rather than using traditional image annotation software, we rely on computer vision tools to general labeled images. The algorithm was developed using images of snow rods from the National Ecological Observatory Network (NEON) project. Qualitative assessments were conducted on these labels, revealing good performances in images of low noise and high visibility. The labels were then used to train a U-Net convolutional neural network (CNN) for segmentation tasks. 
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/assets/img/pole01.jpg" width="125" style="margin-right: 10px;">
+    <img src="/assets/img/pole01seg.jpg" width="125" style="margin-right: 10px;">
+    <img src="/assets/img/pole02.jpg" width="125" style="margin-right: 10px;">    
+    <img src="/assets/img/pole02seg.jpg" width="125">
+</div>
+
+### First Person 3D PacMan (2020)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/First-Person-PacMan)
+
+I developed this small game using Autodesk 3ds Max, Unity, and C#. The game is inspired by the classic arcade game Pac-Man.
+
+<img src="/assets/img/pacman.png" width="400">
