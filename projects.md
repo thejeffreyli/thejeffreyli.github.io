@@ -55,6 +55,7 @@ In this project, we address a universal issue in taking group pictures: leaving 
     <img src="/assets/img/solid.jpg" width="125">
 </div>
 
+<br>
 
 ### PyMSA (2022)
 
@@ -77,10 +78,12 @@ In this project, we propose an algorithm for expediting image labeling tasks thr
     <img src="/assets/img/pole02seg.jpg" width="125">
 </div>
 
+<br>
+
 ### First Person 3D PacMan (2020)
 
 [Check out the full GitHub Repo!](https://github.com/thejeffreyli/First-Person-PacMan)
 
 I developed this small game using Autodesk 3ds Max, Unity, and C#. The game is inspired by the classic arcade game Pac-Man.
 
-<img src="/assets/img/pacman.png" width="400">
+<img src="/assets/img/pacman.png">
