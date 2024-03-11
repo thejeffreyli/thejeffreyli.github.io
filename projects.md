@@ -4,6 +4,22 @@ layout: default
 
 ## Projects
 
+### All We Do Is SWIN (2023)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/pytorch-vision-transformers)
+
+There has been a recent interest in applying Transformers to tasks in computer vision, such as image segmentation and image classification. In particular, Vision Transformers (ViT) and Hierarchical Vision Transformers via Shifted Windows were used to compare the performance of Convolutional Neural Networks (CNNs) for image classification on the CIFAR-100 dataset. Given its performance and hierarchical structure, we also explored the Swin Transformer's potential as a basis unit for encoder and decoder in generative modeling, notably Variational Autoencoder.
+
+<img src="/assets/img/SWIN_vae_output.png" width="400">
+
+### Classifying 3D Common Household Objects Using Deep Learning Approaches (2023)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/point-cloud-classification-exploration)
+
+Processing 3D point cloud data is important for applications in self-driving cars, robotics, and virtual and augmented reality. Qi et al. (2017) introduced the PointNet architecture which performs classification tasks after being trained on point cloud data. The group based their design decisions on three properties of point clouds, namely permutation invariance, transformation invariance, and interactions among points. On the other hand, Zhang et al. (2023) offers a newer non-parametric approach in solving the same problem. Non-parametric building blocks are stacked across multiple stages to construct a pyramid hierarchy. We explored and evaluated both models. Firstly, we focused on implementing both networks and testing them on a smaller point cloud dataset based off ModelNet40. Secondly, we performed a series of tests on robustness on PointNet, as we augment the data during inference. Lastly, we visually assesed the internal encodings of the multistep hierarchical layers inside the non-parametric encoder of the Point-NN to understand how it captures spatial representations for classification tasks.
+
+<img src="/assets/img/chairs.png">
+
 ### San Francisco Bay Area Bike Share EDA/ML Analysis (2022)
 
 [Check out the full GitHub Repo!](https://github.com/thejeffreyli/kaggle-sf-bay-area-bike-share)

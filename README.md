@@ -36,7 +36,7 @@ I am a second year graduate student in the [Scientific Computing Master's Progra
 - Cleaned and processed data using Scikit-learn and Pandas to assess coverage and identify patterns.
 - Assisted Dr. Bowman in his Machine Learning in Chemistry capstone course. Introduced students to a relatively new topic through teaching the first lecture.
 
-## Highlighted Projects: 
+## Highlighted Projects
 
 ### San Francisco Bay Area Bike Share EDA/ML Analysis (2022)
 
