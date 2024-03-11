@@ -20,6 +20,17 @@ Processing 3D point cloud data is important for applications in self-driving car
 
 <img src="/assets/img/chairs.png">
 
+
+### What are Those?! Sneaker Classifier (2023)
+
+[Check out the full GitHub Repo!](https://github.com/thejeffreyli/what-are-those-sneakers)
+
+In this project, I wanted to answer a popular question that first gained traction in 2015 from a viral Vine video: What are Those?! Often times, a sick pair of kicks in the wild catches our eye, but we have no idea what brand or model they are. I propose this program that can provide users with the correct name and model of sneakers, given an image.
+
+The project pipeline involves six major steps: (1) gathering raw data through web-scraping images of sneakers on Google Image, (2) manually cleaning image data to ensure quality and consistency, (3) processing images and creating training and validation sets, (4) developing a convolutional neural network (CNN) architecture for multiclass classification tasks, (5) training and validating the model on sneaker images, and (6) optimizing the model through hyperparameter tuning and changes in architectural design.
+
+<img src="/assets/img/augmentation.png" width="400">
+
 ### San Francisco Bay Area Bike Share EDA/ML Analysis (2022)
 
 [Check out the full GitHub Repo!](https://github.com/thejeffreyli/kaggle-sf-bay-area-bike-share)
